@@ -10,6 +10,7 @@ fun main() {
     println("Box 1 length : ${box1.length}")
     println("Box 1 length : ${box1.width}")
     println("Box 1 length : ${box1.height}")
+    println("Box 1 volume : ${box1.volume}")
 
     box1.open()
     box1.fillContents()
